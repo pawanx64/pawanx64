@@ -70,6 +70,7 @@
 
 <br clear="both">
 
+
 <img src="https://raw.githubusercontent.com/pawanx64/pawanx64/output/snake.svg" alt="Snake animation" />
 
 ###
@@ -79,3 +80,11 @@
 </div>
 
 ###
+
+###
+  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+###
+---
+
+
+  
