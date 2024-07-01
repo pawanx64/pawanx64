@@ -81,10 +81,11 @@
 
 ###
 
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pawanx64" alt="pawanx64" /></a> </p>
+
 ###
   ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 ###
 ---
-
 
   
