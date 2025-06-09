@@ -60,8 +60,7 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/googlecloud/4285F4" height="30" alt="Google Cloud logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="30" alt="LinkedIn logo" />
-  <img width="12" />
+  
   <img src="https://cdn.simpleicons.org/postman/FF6C37" height="30" alt="Postman logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/stackoverflow/F58025" height="30" alt="Stack Overflow logo" />
