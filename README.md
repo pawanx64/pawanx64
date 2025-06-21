@@ -4,7 +4,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pawanx64&show_icons=true&count_private=true&theme=dracula&hide_border=false" height="150" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=pawanx64&theme=dracula&hide_border=false&border_radius=5" height="150" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawanx64&layout=compact&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
 </div>
 
@@ -27,7 +26,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="GitHub" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="VSCode" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="Bootstrap" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="30" alt="Tailwind CSS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="C" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="C++" />
